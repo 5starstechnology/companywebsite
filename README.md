@@ -1,2 +1,0 @@
-# companywebsite
-The company website
