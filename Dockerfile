@@ -1,4 +1,3 @@
-
 FROM centos:centos7
 MAINTAINER The CentOS Project <cloud-ops@centos.org>
 
@@ -41,5 +40,5 @@ EXPOSE 80
 
 USER 997
 
-ENTRYPOINT ["container-entrypoint"]
+#ENTRYPOINT ["container-entrypoint"]
 CMD [ "nginx18" ]
