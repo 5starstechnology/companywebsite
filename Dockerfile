@@ -41,4 +41,4 @@ EXPOSE 80
 USER 997
 
 #ENTRYPOINT ["container-entrypoint"]
-CMD [ "nginx18" ]
+#CMD [ "nginx18" ]
